@@ -177,3 +177,9 @@ ul :hover{
     color: white;
     border: none;
 }
+@media screen and (max-width:419px) {
+    .main{
+        column-gap: 0px;
+        justify-content: center;
+    }
+}
